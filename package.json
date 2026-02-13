@@ -1,5 +1,5 @@
 {
-  "name": "hexlet",
+  "name": "hexlet-js",
   "version": "1.0.0",
   "description": "My first project in Hexlet",
   "homepage": "https://github.com/serdarsabreder/hexlet-js#readme",
@@ -10,12 +10,19 @@
     "type": "git",
     "url": "git+https://github.com/serdarsabreder/hexlet-js.git"
   },
+  "keywords": [
+    "hexlet",
+    "javascript"
+  ],
   "license": "ISC",
-  "author": "",
+  "author": "Serdar <serdarsabreder17@gmail.com>",
   "type": "module",
   "main": "index.js",
   "scripts": {
-	"start": "node index.js"
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.23"
   }
 }
