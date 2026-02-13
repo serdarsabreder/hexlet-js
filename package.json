@@ -1,0 +1,21 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "My first project in Hexlet",
+  "homepage": "https://github.com/serdarsabreder/hexlet-js#readme",
+  "bugs": {
+    "url": "https://github.com/serdarsabreder/hexlet-js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serdarsabreder/hexlet-js.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+	"start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
